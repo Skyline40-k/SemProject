@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "473289865369",
+    "project_id": "sem2-cee58",
+    "storage_bucket": "sem2-cee58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473289865369:android:b912fc6587b833aaf32008",
+        "android_client_info": {
+          "package_name": "com.omega.onlinefeedback"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOEchr0-AJbLr1GrZbGtWGHYUrbfPRiso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473289865369:android:5a1a7e957b95073bf32008",
+        "android_client_info": {
+          "package_name": "com.omega.onlinestudentfeedback"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOEchr0-AJbLr1GrZbGtWGHYUrbfPRiso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

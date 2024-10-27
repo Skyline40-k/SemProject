@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842142510417",
+    "project_id": "sem3-project-1365b",
+    "storage_bucket": "sem3-project-1365b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842142510417:android:e18460faa916005b663770",
+        "android_client_info": {
+          "package_name": "com.omega.feedbacksystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Oc4b_SpjxATh7Hct5Ooc2_vrcIA5Pnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
